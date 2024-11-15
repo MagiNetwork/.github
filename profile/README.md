@@ -17,7 +17,4 @@ potessero pubblicare i propri progetti, risorse o libri al fine di renderli disp
 ampliare i propri orizzonti di studio.
 
 ## ⚒️ Collaborazione
-Se sei interessato a collaborare al progetto, fino a nuovo avviso potrai farlo solo inviandoci una mail a 
-**contact@maginetwork.org**. Riceverai risposta da un membro del team del nostro partner [Abstract Panthers](https://www.abstractpanthers.com).
-
-Ti ricordiamo che, per poter contribuire, dovrai presentare almeno un progetto valido e che rispetti i nostri termini.
+Se sei interessato a collaborare al progetto, potrai compilare il form direttamente dal nostro [sito web]("https://maginetwork.org") ma ti ricordiamo che, per poter contribuire, dovrai presentare almeno un progetto valido e che rispetti i nostri termini.
