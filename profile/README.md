@@ -11,6 +11,17 @@
 Benvenuto nell'organizzazione ufficiale del **Magi Network**, ovvero un gruppo fondato da studenti dell'**I.T.I.S. Magistri 
 Cumacini** dedicato allo sviluppo di progetti _open-source_.
 
+### 👷 Gestori e Amministratori in Carica
+Questi sono tutti coloro che si occupano dell'amministrazione del progetto.
+
+#### 📑 Gestori
+![Static Badge](https://img.shields.io/badge/LoRy24-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/TissuB-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/0tia0-red?style=for-the-badge)
+
+#### 🛡️ Amministratori
+![Static Badge](https://img.shields.io/badge/DarkAle14-orange?style=for-the-badge)
+
 ## 📜 Filosofia
 Il nostro intento, sul quale ci siamo fondati, è stato quello di creare una piattaforma su cui, programmatori e non solo,
 potessero pubblicare i propri progetti, risorse o libri al fine di renderli disponibili ad altri studenti e, così facendo,
