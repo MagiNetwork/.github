@@ -21,3 +21,5 @@ Se sei interessato a collaborare al progetto, fino a nuovo avviso potrai farlo s
 **contact@maginetwork.org**. Riceverai risposta da un membro del team del nostro partner [Abstract Panthers](https://www.abstractpanthers.com).
 
 Ti ricordiamo che, per poter contribuire, dovrai presentare almeno un progetto valido e che rispetti i nostri termini.
+
+![](./banner-2.png)
