@@ -1,4 +1,4 @@
-![](https://github.com/MagiNetwork/.github/blob/main/profile/banner-1.png?raw=true)
+![](./banner-1.png)
 
 # 🎓 MagiNetwork
 ![GitHub followers](https://img.shields.io/github/followers/MagiNetwork?style=for-the-badge)
