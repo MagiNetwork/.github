@@ -1,4 +1,4 @@
-![](./banner-1.png)
+![](https://github.com/MagiNetwork/.github/blob/main/profile/banner-1.png?raw=true)
 
 # 🎓 MagiNetwork
 ![GitHub followers](https://img.shields.io/github/followers/MagiNetwork?style=for-the-badge)
@@ -23,3 +23,4 @@ Se sei interessato a collaborare al progetto, fino a nuovo avviso potrai farlo s
 Ti ricordiamo che, per poter contribuire, dovrai presentare almeno un progetto valido e che rispetti i nostri termini.
 
 ![](./banner-2.png)
+
