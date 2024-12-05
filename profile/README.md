@@ -21,6 +21,7 @@ Questi sono tutti coloro che si occupano dell'amministrazione del progetto.
 
 #### 🛡️ Amministratori
 ![Static Badge](https://img.shields.io/badge/DarkAle14-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Evern0-orange?style=for-the-badge)
 
 ## 📜 Filosofia
 Il nostro intento, sul quale ci siamo fondati, è stato quello di creare una piattaforma su cui, programmatori e non solo,
@@ -29,7 +30,7 @@ ampliare i propri orizzonti di studio.
 
 ## ⚒️ Collaborazione
 Se sei interessato a collaborare al progetto, fino a nuovo avviso potrai farlo solo inviandoci una mail a 
-**contact@maginetwork.org**. Riceverai risposta da un membro del team del nostro partner [Abstract Panthers](https://www.abstractpanthers.com).
+**contact@maginetwork.org**. Riceverai risposta da un membro del team
 
 Ti ricordiamo che, per poter contribuire, dovrai presentare almeno un progetto valido e che rispetti i nostri termini.
 
